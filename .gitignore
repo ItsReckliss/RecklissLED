@@ -1,0 +1,30 @@
+# ---- KiCad: personal / temporary files ----
+# View settings (visible layers, zoom) - differ per computer
+*.kicad_prl
+# Automatic zip backups - git is our backup now
+*-backups/
+# Lock files ("this file is open on GAMING-PC")
+~*.lck
+# Crash-recovery and backup copies
+_autosave-*
+*-bak
+*.bak
+*.bck
+*~
+\#auto_saved_files#
+# Footprint search cache - KiCad rebuilds it
+fp-info-cache
+# Local history (newer KiCad versions)
+.history/
+# Netlist / autorouter exchange files - regenerated on demand
+*.net
+*.dsn
+*.ses
+
+# ---- Import-LIB plugin temporary files ----
+*.backup
+*.tmp
+
+# ---- Windows / Google Drive clutter ----
+Thumbs.db
+desktop.ini
