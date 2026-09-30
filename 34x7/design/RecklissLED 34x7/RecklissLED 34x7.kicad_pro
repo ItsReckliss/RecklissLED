@@ -661,7 +661,7 @@
         "uuid": "561bff0e-7f1d-4df9-8c86-6a6cd73d17fd"
       }
     ],
-    "used_designators": "TP1-3,C1-2,#PWR1-4,LED1-4",
+    "used_designators": "TP1-6,C1-2,#PWR1-4,LED1-4",
     "variants": []
   },
   "sheets": [
