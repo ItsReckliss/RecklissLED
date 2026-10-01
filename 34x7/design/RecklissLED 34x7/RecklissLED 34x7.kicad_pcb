@@ -792,12 +792,13 @@
 	(footprint "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
 		(layer "F.Cu")
 		(uuid "5595d623-8a85-4840-898d-1afd2dbd3635")
-		(at 156.15 93.3 -90)
+		(at 156.63 93.6 -90)
 		(descr "Wire Pad, Square, SMD Pad,  1mm x 2mm")
 		(tags "MeasurementPoint Square SMDPad 1mmx2mm ")
 		(property "Reference" "TP4"
 			(at 0 -2 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "87e28581-6c45-43fd-9b5d-20039cf4c720")
 			(effects
 				(font
@@ -902,13 +903,14 @@
 	(footprint "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
 		(layer "F.Cu")
 		(uuid "7524c0a0-ed88-486f-a89e-18e48a6d63d3")
-		(at 156.15 98.4 -90)
+		(at 156.57 98.3 -90)
 		(descr "Wire Pad, Square, SMD Pad,  1mm x 2mm")
 		(tags "MeasurementPoint Square SMDPad 1mmx2mm ")
 		(property "Reference" "TP6"
 			(at 0 -2 90)
 			(layer "F.SilkS")
-			(uuid "4bb88bca-17d3-436d-990a-62dd8eab2084")
+			(hide yes)
+			(uuid "a33e3bc0-1733-483b-b3d4-1c965de02405")
 			(effects
 				(font
 					(size 1 1)
@@ -919,7 +921,7 @@
 		(property "Value" "TestPoint"
 			(at 0 2.54 90)
 			(layer "F.Fab")
-			(uuid "c5edb3b1-f8b2-4e1a-9cb5-00835d2e9e17")
+			(uuid "59a16b46-8522-435a-bd89-715b3954a845")
 			(effects
 				(font
 					(size 1 1)
@@ -932,7 +934,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f15c8f81-b3c6-48e8-92cc-8a7cde189f9a")
+			(uuid "fc1d980a-cca1-472e-9fb8-a72c94c99d91")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -945,7 +947,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "74967a48-6a8d-43e3-99b2-cc8464c92df9")
+			(uuid "7e96e8a2-ecfc-4755-81a8-be344d4a8d06")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2008,12 +2010,13 @@
 	(footprint "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
 		(layer "F.Cu")
 		(uuid "c3f91e48-5f7c-4635-96b8-b0306665f128")
-		(at 156.15 95.85 -90)
+		(at 156.57 95.84 -90)
 		(descr "Wire Pad, Square, SMD Pad,  1mm x 2mm")
 		(tags "MeasurementPoint Square SMDPad 1mmx2mm ")
 		(property "Reference" "TP5"
 			(at 0 -2 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "ce55ec7f-53d6-4cb3-8df8-868bb2341c96")
 			(effects
 				(font
@@ -2104,7 +2107,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at 0 0 270)
+			(at 0.11 0 270)
 			(size 1 2)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
@@ -2418,6 +2421,7 @@
 		(property "Reference" "TP3"
 			(at 0 -2 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "e62e6dcb-0981-4315-a9b8-fe4cde0a37f7")
 			(effects
 				(font
@@ -2528,6 +2532,7 @@
 		(property "Reference" "TP2"
 			(at 0 -2 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "c7193678-20c1-4d61-a859-eff29be94938")
 			(effects
 				(font
@@ -2638,6 +2643,7 @@
 		(property "Reference" "TP1"
 			(at 0 -2 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "15b12b5d-0f34-4910-ab78-e1223aa53d00")
 			(effects
 				(font

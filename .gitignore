@@ -25,6 +25,7 @@ fp-info-cache
 *.backup
 *.tmp
 
-# ---- Windows / Google Drive clutter ----
+# ---- Windows / macOS / Google Drive clutter ----
 Thumbs.db
 desktop.ini
+.DS_Store
